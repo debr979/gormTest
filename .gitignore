@@ -1,0 +1,4 @@
+#FileName .gitignore
+
+#db setting
+models/Config.go
